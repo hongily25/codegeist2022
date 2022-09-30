@@ -8,6 +8,7 @@ Hackathon project for Codegeist 2022
 Requirements
 - Docker
 - Node.js
+- npm
 - Atlassian CLI
 
 File Structure
@@ -16,3 +17,7 @@ File Structure
 - package.json
 - package-lock.json
 - README.md
+
+Links
+Atlassian cloud developer site
+- https://developer.atlassian.com/platform/forge/getting-started/#set-up-an-atlassian-cloud-developer-site
