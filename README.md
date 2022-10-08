@@ -10,6 +10,7 @@ Requirements
 - Node.js
 - npm
 - Atlassian CLI
+- Forge
 
 File Structure
 - index.jsx
