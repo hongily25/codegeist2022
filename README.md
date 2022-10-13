@@ -11,6 +11,7 @@ Requirements
 - npm
 - Atlassian CLI
 - Forge
+- RecordRTC
 
 File Structure
 - index.jsx
@@ -22,3 +23,4 @@ File Structure
 Links
 Atlassian cloud developer site
 - https://developer.atlassian.com/platform/forge/getting-started/#set-up-an-atlassian-cloud-developer-site
+- https://github.com/muaz-khan/RecordRTC
